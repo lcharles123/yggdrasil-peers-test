@@ -1,0 +1,7 @@
+websockets
+aioquic
+icmplib
+tabulate
+requests
+pysocks
+ssl
