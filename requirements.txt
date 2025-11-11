@@ -4,4 +4,3 @@ icmplib
 tabulate
 requests
 pysocks
-ssl
